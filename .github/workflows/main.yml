@@ -18,7 +18,7 @@ jobs:
 
     - name: Force Build React App (Ignore warnings)
       run: |
-        CI=false npm run build
+        CI="" npm run build
     
     - name: Deploy React app to GitHub Pages
       uses: omkartapale/react-deployment-gh-pages@v1.0.0
