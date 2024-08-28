@@ -16,7 +16,7 @@ jobs:
     - name: Install dependencies
       run: npm install
 
-    - name: Force Build React App (Ignore warnings and errors)
+    - name: Force Build React App (Ignore warnings)
       run: |
         CI=false npm run build
     
