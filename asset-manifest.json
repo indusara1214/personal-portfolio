@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ae90352.css",
+    "main.js": "/static/js/main.352ea7ee.js",
+    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
+    "static/media/bg.jpg": "/static/media/bg.89329b7ac00354daaf88.jpg",
+    "static/media/3rdYear.png": "/static/media/3rdYear.b2d2a34bdaeb93451bf8.png",
+    "static/media/2ndYear.png": "/static/media/2ndYear.6a4973b5e41a0d138116.png",
+    "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/1.png": "/static/media/1.dfe04f08ceecec6dd434.png",
+    "static/media/2.png": "/static/media/2.5dca454043b6400190c8.png",
+    "static/media/4.png": "/static/media/4.4b7ae93926cdb7244e09.png",
+    "static/media/3.png": "/static/media/3.fd30ed8ee26f10a728ec.png",
+    "static/media/5.png": "/static/media/5.8f9f2770f811d7fff875.png",
+    "static/media/header.png": "/static/media/header.f3d19097e404573a8577.png",
+    "static/media/contactus.png": "/static/media/contactus.f2ab91aeb8232c5b7e3c.png",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/first logos.jpg": "/static/media/first logos.f4cf6f9e665a59e821f1.jpg",
+    "static/media/ssc.png": "/static/media/ssc.a22111d7143ea1770376.png",
+    "static/media/ongoing.png": "/static/media/ongoing.495d75a75e8447b31afb.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nav-icon3.svg": "/static/media/nav-icon3.72cef43bc93b04f52e29f022ef720f8b.svg",
+    "static/media/whatsapp-white-icon.svg": "/static/media/whatsapp-white-icon.ab0d240218d9c85d6fb332965b24124e.svg",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
+    "index.html": "/index.html",
+    "static/media/arrow2.svg": "/static/media/arrow2.b3d03e1b04ec1904a5658aea5776433c.svg",
+    "static/media/arrow1.svg": "/static/media/arrow1.1088f8313e5637897aff2414e5938141.svg",
+    "static/media/nav-icon2.svg": "/static/media/nav-icon2.a39f0e5e47e442dafcc5c9c320f19f6f.svg",
+    "main.7ae90352.css.map": "/static/css/main.7ae90352.css.map",
+    "main.352ea7ee.js.map": "/static/js/main.352ea7ee.js.map",
+    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ae90352.css",
+    "static/js/main.352ea7ee.js"
+  ]
+}
