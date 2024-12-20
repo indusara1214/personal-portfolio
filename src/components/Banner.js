@@ -14,6 +14,14 @@ export const Banner = () => {
   const toRotate = [ "Web Developer", "Information Systems Undergraduate" ];
   const period = 2000;
 
+    const handleDownload = () => {
+      const link = document.createElement('a');
+      link.href = '/path/to/your/document.pdf'; // Update with the path to your document
+      link.download = 'Udantha_wanasingha'; // Update with the file name you want
+      link.click();
+    }
+
+
   useEffect(() => {
     let ticker = setInterval(() => {
       tick();
