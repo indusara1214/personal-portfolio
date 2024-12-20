@@ -43,27 +43,21 @@ export const Contact = () => {
                 <form ref={form} onSubmit={sendEmail}>
                   <Row>
                     <Col size={12} sm={6} className="px-1">
-                      <input type="text" name='first_name' value={formDetails.firstName} placeholder="First Name" onChange={(e) => onFormUpdate('firstName', e.target.value)} />
+                      <input type="text" name='first_name' value={formDetails.firstName} placeholder="First Name"/>
                     </Col>
                     <Col size={12} sm={6} className="px-1">
-                      <input type="text" name='last_name' value={formDetails.lasttName} placeholder="Last Name" onChange={(e) => onFormUpdate('lastName', e.target.value)}/>
+                      <input type="text" name='last_name'  placeholder="Last Name" />
                     </Col>
                     <Col size={12} sm={6} className="px-1">
-                      <input type="email" name='email' value={formDetails.email} placeholder="Email Address" onChange={(e) => onFormUpdate('email', e.target.value)} />
+                      <input type="email" name='email' placeholder="Email Address" />
                     </Col>
                     <Col size={12} sm={6} className="px-1">
-                      <input type="tel" name='phone_number' value={formDetails.phone} placeholder="Phone No." onChange={(e) => onFormUpdate('phone', e.target.value)}/>
+                      <input type="tel" name='phone_number'  placeholder="Phone No."/>
                     </Col>
                     <Col size={12} className="px-1">
-                      <textarea rows="6" name='message' value={formDetails.message} placeholder="Message" onChange={(e) => onFormUpdate('message', e.target.value)}></textarea>
+                      <textarea rows="6" name='message'  placeholder="Message"></textarea>
                       <button type="submit"><span>{buttonText}</span></button>
                     </Col>
-                    {
-                      status.message &&
-                      <Col>
-                        <p className={status.success === false ? "danger" : "success"}>{status.message}</p>
-                      </Col>
-                    }
                   </Row>
                 </form>
               </div>}
