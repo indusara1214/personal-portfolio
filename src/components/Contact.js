@@ -43,7 +43,7 @@ export const Contact = () => {
                 <form ref={form} onSubmit={sendEmail}>
                   <Row>
                     <Col size={12} sm={6} className="px-1">
-                      <input type="text" name='first_name' value={formDetails.firstName} placeholder="First Name"/>
+                      <input type="text" name='first_name' placeholder="First Name"/>
                     </Col>
                     <Col size={12} sm={6} className="px-1">
                       <input type="text" name='last_name'  placeholder="Last Name" />
@@ -56,7 +56,7 @@ export const Contact = () => {
                     </Col>
                     <Col size={12} className="px-1">
                       <textarea rows="6" name='message'  placeholder="Message"></textarea>
-                      <button type="submit"><span>{buttonText}</span></button>
+                      <button type="submit">Submit</button>
                     </Col>
                   </Row>
                 </form>
